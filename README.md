@@ -1,1 +1,1 @@
-# CSE327-PROJECT-OGS
+# Online Grocery Shop (OGS)
